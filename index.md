@@ -1,14 +1,11 @@
 ---
-
 layout: cv  
-title: [Andrew Lovett-Barron]'s CV  
-
+title: Andrew Lovett-Barron's CV  
 ---
+# Andrew Lovett-Barron
+Strategic Design Expert
 
-# [Andrew Lovett-Barron]  
-[Design and Product Expert], [Megafauna]  
-
-<a href="mailto:alb@andrewlb.com">alb@andrewlb.com</a> - +[+45 27 13 22 00]  
+<a href="mailto:alb@andrewlb.com">alb@andrewlb.com</a> - +45 27 13 22 00
 
 <div id="webaddress">  
   <a href="https://www.linkedin.com/in/andrewlb"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>  
