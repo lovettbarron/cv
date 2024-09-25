@@ -84,9 +84,10 @@ Strategic Design Expert
 **Summer Policy Intern**, Business and Information Services, Ministry of Transportation  
 
 ## Products
+`2024`
+User Drift (Pending)
 
-
-`2019`  
+`2020`  
 [Knowsi: Manage Research Better](https://web.archive.org/web/20190117134454/http://knowsi.com/) (Closed, to be open-sourced)  
 - Case Study: <a href="https://andrewlb.com/project/knowsi">Case Study</a>
 
@@ -122,15 +123,19 @@ The Decay of Digital Things, [The Internet of Other People’s Things](https://w
 `Apr 2018`  
 [Speaker](https://web.archive.org/web/20190117134454/http://nten.org/ntc/program/sessions/the-best-tech-startup-practices-to-help-your-mission/), Nonprofit Technology Conference  
 
-...
 
 ## Education
 
-`2024`  
-**Transformational Coaching Certificate**, Animas Coaching  
-
 `2020-2022`  
 **Masters of Arts with Merit**, International Security Studies  
+
+`2005-2009`  
+**Honours Bachelor of Arts**, Political Science Specialist, University of Toronto  
+
+## Certifications
+
+`2024`  
+**Transformational Coaching Certificate**, Animas Coaching  
 
 `2017-2018`  
 **Emergency Medical Technician (EMT-B/Wilderness)**, SOLO Wilderness Medicine  
@@ -138,5 +143,3 @@ The Decay of Digital Things, [The Internet of Other People’s Things](https://w
 `2016`  
 **Data Science Certificate**, General Assembly  
 
-`2005-2009`  
-**Honours Bachelor of Arts**, Political Science Specialist, University of Toronto  
