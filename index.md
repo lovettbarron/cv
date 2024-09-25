@@ -127,7 +127,7 @@ The Decay of Digital Things, [The Internet of Other People’s Things](https://w
 ## Education
 
 `2020-2022`  
-**Masters of Arts with Merit**, International Security Studies  
+**Masters of Arts with Merit**, International Security Studies, University of Leicester  
 
 `2005-2009`  
 **Honours Bachelor of Arts**, Political Science Specialist, University of Toronto  
